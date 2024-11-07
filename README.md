@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aniket Chafekar</h1>
+<h1 align="center">Hola! 👋, I'm Aniket Chafekar</h1>
 <h3 align="center">A passionate Data Analyst with over 3 years of professional experience</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/aniketchafekar1002](https://www.datascienceportfol.io/aniketchafekar1002)
