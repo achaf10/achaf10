@@ -5,11 +5,13 @@
 
 - 💬 Ask me about **Python, SQL and Data Modelling**
 
+- 📊 Explore my visualizations on [🌐📈Tableau Public](https://public.tableau.com/app/profile/aniket.nikhil.chafekar/vizzes)
+
 - 📫 How to reach me **achaf10@umd.edu**
 
 - 📄 Know about my experiences! [Check out my resume!](https://drive.google.com/file/d/1p8GxHs6KneXlyzCIMmdOCiYUMyVQFFWH/view?usp=sharing)
 
-- ⚡ Fun fact **I am self taught on the guitar.**
+- ⚡ Fun fact **I am self taught on the guitar 🎸.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
