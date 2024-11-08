@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available on [My Data Science Portfolio](https://www.datascienceportfol.io/aniketchafekar1002)
 
-- 💬 Ask me about **Python, SQL and Data Modelling**
+- 💬 Unlocking data’s secrets, one query at a time. Python, SQL, Data Models—let’s build, optimize, and reveal the stories hidden in your data!
 
 - 📊 Explore my visualizations on [🌐📈Tableau Public](https://public.tableau.com/app/profile/aniket.nikhil.chafekar/vizzes)
 
